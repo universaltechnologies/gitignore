@@ -1,0 +1,8 @@
+# visual studio config file
+.vsconfig
+
+# visual studio code cache directory
+.vscode/
+
+# idea cache directory
+.idea/
